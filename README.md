@@ -12,5 +12,4 @@ the use of icons and third-party fonts
 
 ![Screenshot](/images/Screen.png)
 
->Created by Ivan Alekseev based on the Udemy Flutter Bootcamp 2021 Course  
 
